@@ -4,6 +4,7 @@ Express
 Body-Parser
 Mongoose
 Bcryptjs
+jsonwebtoken
 
 Ferramentas
 
