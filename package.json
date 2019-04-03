@@ -1,0 +1,29 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "Api Javascript rodando em NodeJS com MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertoncristiano/Api-Rest-Node-With-MongoDB.git"
+  },
+  "keywords": [
+    "Api",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Everton Cristiano dos Santos",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/evertoncristiano/Api-Rest-Node-With-MongoDB/issues"
+  },
+  "homepage": "https://github.com/evertoncristiano/Api-Rest-Node-With-MongoDB#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.21"
+  }
+}
